@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there 👋 I'm Jagadeesh Jetti
 
 💻 Full‑Stack Web Developer | MERN & TypeScript | Building AI‑powered & Real‑Time Apps  
