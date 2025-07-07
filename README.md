@@ -34,7 +34,6 @@
 - TS, PostgreSQL, Prisma, Tailwind, Socket.io
 - Auth flow, DB schema, live updates, dashboard
 
-*(Pin each of these in your GitHub profile)*
 
 ---
 
