@@ -4,7 +4,7 @@
 💻 Full‑Stack Web Developer | MERN & TypeScript | Building AI‑powered & Real‑Time Apps  
 🎯 Aiming to land a top dev role by crafting clean, scalable web apps like **FocusFlow** & **Sportify**  
 🌱 Currently diving deep into Prisma, PostgreSQL, Tailwind  
-📈 Passionate about system design, clean code, and developer best practices
+📈 Passionate about product building and real world problem solving.
 
 ---
 
