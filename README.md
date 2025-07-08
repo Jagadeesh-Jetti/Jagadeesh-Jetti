@@ -37,6 +37,7 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Jagadeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeesh-Jetti&show_icons=true&count_private=true&theme=tokyonight)
+> 📈 Actively pushing code, building projects & coming back strong!
+> Currently working on: FocusFlow 🚀, Sportify 🏀
+
 
