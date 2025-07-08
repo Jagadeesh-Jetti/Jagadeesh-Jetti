@@ -38,4 +38,5 @@
 ---
 
 ## 📈 GitHub Stats  
-![Jagadeesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagadeeshi2i&show_icons=true&theme=tokyonight)
+![Jagadeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagadeesh-Jetti&show_icons=true&count_private=true&theme=tokyonight)
+
